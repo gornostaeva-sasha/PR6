@@ -1,10 +1,11 @@
 # SaT_PR6_Gornostaeva_Bataev_522
 
-СОЗДАНИЕ АВТОМАТИЗИРОВАННЫХ UNIT-ТЕСТОВ
+**СОЗДАНИЕ АВТОМАТИЗИРОВАННЫХ UNIT-ТЕСТОВ**
 
 Цель работы: провести тестирование разработанных программных модулей с использованием средств автоматизации Microsoft Visual Studio методом "белого ящика".
 
 Скриншоты результата выполнения программы:
+
 ![image](https://github.com/user-attachments/assets/c5fca20c-ebca-4e5e-ac8d-f0b6ea4e17a4)
 ![image](https://github.com/user-attachments/assets/0c2d556a-f2d1-4401-8d6f-a93da856b248)
 
